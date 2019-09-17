@@ -1,5 +1,5 @@
 papers:
-    - title: "Efficient Probabilistic Inference in the Quest for Physics Beyond the Standard Model"
+  - title: "Efficient Probabilistic Inference in the Quest for Physics Beyond the Standard Model"
     authors: "Atilim Gunes Baydin, Lukas Heinrich, Wahid Bhimji, <b>Bradley Gram-Hansen</b>, Gilles Louppe, Lei Shao, Kyle Cranmer, Frank Wood"
     venue: "Neurlps'2019: Thirty-third Conference on Neural Information Processing Systems"
     paper_pdf: "/assets/publications/2019_physics/paper2.pdf"
@@ -11,9 +11,8 @@ papers:
     venue: "SC'19: International Conference on Super Computing. 2019. <b> Nominated for best paper award </b>"
     paper_pdf: "/assets/publications/2019_physics/paper2.pdf"
     code: "https://github.com/etalumis"
-
-    # video: "https://www.youtube.com/watch?v=OQOUHkJdA-U"
     selected: y
+
   - title: "LF-PPL: A Low-Level First Order Probabilistic Programming Language for Non-Differentiable Models."
     authors: "<b>Bradley Gram-Hansen</b>*, Yuan Zhou*, Tobias Kohn, Tom Rainforth, Hongseok Yang, Frank Wood"
     venue: "AISTATS'19:  International Conference on Artificial Intelligence and Statistics. 2019"
