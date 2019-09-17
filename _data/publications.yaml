@@ -15,7 +15,7 @@ papers:
 
 
   - title: "Hijacking Malaria Simulators with Probabilistic Programming."
-    authors: "<bBradley Gram-Hansen*</b>, Christian Schröder de Witt*, Tom Rainforth, Philip HS Torr, Yee Whye Teh, Atılım Güneş Baydin"
+    authors: "<b>Bradley Gram-Hansen*</b>, Christian Schröder de Witt*, Tom Rainforth, Philip HS Torr, Yee Whye Teh, Atılım Güneş Baydin"
     venue: "ICML'19: International Conference on Machine Learning AI for Social Good workshop. 2019."
     paper_pdf: "/assets/publications/2019_malaria/paper.pdf"
     poster: "https://docs.google.com/presentation/d/1obDkTjoNGvvuSL-oxpSqe1miHVhpVKk79J7cOhGn92U/edit?usp=sharing"
