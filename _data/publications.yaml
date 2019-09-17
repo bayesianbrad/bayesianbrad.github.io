@@ -1,7 +1,7 @@
 papers:
   - title: "Efficient Probabilistic Inference in the Quest for Physics Beyond the Standard Model"
-    authors: "Atilim Gunes Baydin, Lukas Heinrich, Wahid Bhimji, <b>Bradley Gram-Hansen</b>, Gilles Louppe, Lei Shao, Kyle Cranmer, Frank Wood"
-    venue: "Neurlps'2019: Thirty-third Conference on Neural Information Processing Systems"
+    authors: "Atilim Gunes Baydin, Lukas Heinrich, Wahid Bhimji, <b>Bradley Gram-Hansen </b>, Gilles Louppe, Lei Shao, Kyle Cranmer, Frank Wood"
+    venue: "NeurlPS'2019: Thirty-third Conference on Neural Information Processing Systems"
     paper_pdf: "/assets/publications/2019_physics/paper2.pdf"
     code: "https://github.com/etalumis"
     selected: y
@@ -13,28 +13,6 @@ papers:
     code: "https://github.com/etalumis"
     selected: y
 
-  - title: "LF-PPL: A Low-Level First Order Probabilistic Programming Language for Non-Differentiable Models."
-    authors: "<b>Bradley Gram-Hansen</b>*, Yuan Zhou*, Tobias Kohn, Tom Rainforth, Hongseok Yang, Frank Wood"
-    venue: "AISTATS'19:  International Conference on Artificial Intelligence and Statistics. 2019"
-    paper_pdf: "/assets/publications/2019_lfppl/paper.pdf"
-    code: "https://github.com/bradleygramhansen/PyLFPPL"
-    selected: y
-
-
-  - title: "Mapping Informal Settlements in Developing Countries using Machine Learning and Low Resolution Multi-spectral Data."
-    authors: "<b>Bradley J Gram-Hansen</b>, Patrick Helber, Indhu Varatharajan, Faiza Azam, Alejandro Coca-Castro, Veronika Kopackova, Piotr Bilinski"
-    venue: "AAAI'19: Proceedings of the 2019 AAAI/ACM Conference on AI, Ethics, and Society, 2019"
-    paper_pdf: "/assets/publications/2019_mappinginformal/paper.pdf"
-    code: "https://github.com/FrontierDevelopmentLab/informal-settlements"
-    selected: y
-
-  - title: "Hamiltonian Monte Carlo for Probabilistic Programs with Discontinuities."
-    authors: "<b>Bradley Gram-Hansen</b>, Yuan Zhou, Tobias Kohn, Tom Rainforth, Hongseok Yang, Frank Wood"
-    venue: "ProbProg'18: International Conference on Probabilistic Programming. 2018."
-    paper_pdf: "/assets/publications/2018_hmc_probprog/paper.pdf"
-    code: "https://github.com/bradleygramhansen/PyLFPPL"
-    selected: n
-
 
   - title: "Hijacking Malaria Simulators with Probabilistic Programming."
     authors: "<bBradley Gram-Hansen*</b>, Christian Schröder de Witt*, Tom Rainforth, Philip HS Torr, Yee Whye Teh, Atılım Güneş Baydin"
@@ -44,3 +22,61 @@ papers:
     selected: y
 
 
+  - title: "LF-PPL: A Low-Level First Order Probabilistic Programming Language for Non-Differentiable Models."
+    authors: "<b>Bradley Gram-Hansen</b>*, Yuan Zhou*, Tobias Kohn, Tom Rainforth, Hongseok Yang, Frank Wood"
+    venue: "AISTATS'19:  International Conference on Artificial Intelligence and Statistics. 2019"
+    paper_pdf: "/assets/publications/2019_lfppl/paper.pdf"
+    code: "https://github.com/bayesianbrad/PyLFPPL"
+    selected: y
+
+
+  - title: "Mapping Informal Settlements in Developing Countries using Machine Learning and Low Resolution Multi-spectral Data."
+    authors: "<b>Bradley J Gram-Hansen</b>*, Patrick Helber*, Indhu Varatharajan, Faiza Azam, Alejandro Coca-Castro, Veronika Kopackova, Piotr Bilinski"
+    venue: "AAAI'19: Proceedings of the 2019 AAAI/ACM Conference on AI, Ethics, and Society, 2019"
+    paper_pdf: "/assets/publications/2019_mappinginformal/paper.pdf"
+    code: "https://github.com/FrontierDevelopmentLab/informal-settlements"
+    selected: y
+  
+  
+  - title: Generating Material Maps to Map Informal Settlements."
+    authors: "<b>Bradley J Gram-Hansen</b>*, Patrick Helber*, Indhu Varatharajan, Faiza Azam, Alejandro Coca-Castro, Veronika Kopackova, Piotr Bilinski"
+    venue: "NeurlPS'18: NeurlPS workshop on Machine Learning for the Developing World (ML4DW), 2018"
+    paper_pdf: "/assets/publications/2019_material/paper.pdf"
+    code: "https://github.com/FrontierDevelopmentLab/informal-settlements"
+    selected: y
+
+
+  - title: "Hamiltonian Monte Carlo for Probabilistic Programs with Discontinuities."
+    authors: "<b>Bradley Gram-Hansen</b>, Yuan Zhou, Tobias Kohn, Tom Rainforth, Hongseok Yang, Frank Wood"
+    venue: "ProbProg'18: International Conference on Probabilistic Programming. 2018."
+    paper_pdf: "/assets/publications/2018_hmc_probprog/paper.pdf"
+    code: "https://github.com/bayesianbrad/PyLFPPL"
+    selected: n
+
+
+  - title: "Multi-layer Stacked Gaussian Processes."
+    authors: "<b>Bradley Gram-Hansen</b>,Stephen Roberts"
+    venue: "Preprint"
+    paper_pdf: "/assets/publications/2017_gp/paper.pdf"
+    code: "https://github.com/bayesianbrad/Stacked_kernel"
+    selected: n
+
+  - title: "Multi-layer Stacked Gaussian Processes."
+    authors: "<b>Bradley Gram-Hansen</b>,Stephen Roberts"
+    venue: "Preprint"
+    paper_pdf: "/assets/publications/2017_gp/paper.pdf"
+    code: "https://github.com/bayesianbrad/Stacked_kernel"
+    selected: n
+
+  - title: "Dissertation: An investigation into the creation of entanglement mediated by interaction."
+    authors: "<b>Bradley Gram-Hansen</b>"
+    venue: "Dissertation. Supervised by <b>Alexander Ossipov</b> "
+    paper_pdf: "/assets/publications/2015_dis/paper.pdf"
+    selected: n
+
+  - title: "Thesis: An insight into Quantum random walks."
+    authors: "<b>Bradley Gram-Hansen</b>"
+    venue: "3rd year Thesis. Supervised by <b> Madalin Guţă</b> "
+    paper_pdf: "/assets/publications/2014_thesis/paper.pdf"
+    poster: "/assets/publications/2014_thesis/poster.pdf"
+    selected: n
