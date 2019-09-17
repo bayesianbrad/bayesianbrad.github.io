@@ -4,7 +4,7 @@ title:  "The PhD life."
 # date:   2019-09-15 15:25:00
 # categories: Personal
 # author: Bradley
-# comments: true
+comments: true
 ---
  <div style="display: flex ; justify-content: center;"><img src="https://imgs.xkcd.com/comics/honest.png" style="width: 300px; max-width: 100%; height: auto; float: middle" alt="Click for the larger version." /></div>
 <h1 id="problems">Problems</h1>
