@@ -1,8 +1,7 @@
 source:      .
 destination: ./_site
 includes:    ./_includes
-baseurl: /~msaveski
-
+baseurl: ""
 collections:
   projects:
     output: true
