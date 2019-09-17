@@ -1,88 +1,54 @@
 papers:
+    - title: "Efficient Probabilistic Inference in the Quest for Physics Beyond the Standard Model"
+    authors: "Atilim Gunes Baydin, Lukas Heinrich, Wahid Bhimji, <b>Bradley Gram-Hansen</b>, Gilles Louppe, Lei Shao, Kyle Cranmer, Frank Wood"
+    venue: "Neurlps'2019: Thirty-third Conference on Neural Information Processing Systems"
+    paper_pdf: "/assets/publications/2019_physics/paper2.pdf"
+    code: "https://github.com/etalumis"
+    selected: y
+  
+  - title: "Etalumis: Bringing Probabilistic Programming to Scientific Simulators at Scale."
+    authors: "Atılım Güneş Baydin, Lei Shao, Wahid Bhimji, Lukas Heinrich, Lawrence Meadows, Jialin Liu, Andreas Munk, Saeid Naderiparizi, <b>Bradley Gram-Hansen</b>, Gilles Louppe, Mingfei Ma, Xiaohui Zhao, Philip Torr, Victor Lee, Kyle Cranmer, Frank Wood"
+    venue: "SC'19: International Conference on Super Computing. 2019. <b> Nominated for best paper award </b>"
+    paper_pdf: "/assets/publications/2019_physics/paper2.pdf"
+    code: "https://github.com/etalumis"
 
-  - title: "Me, My Echo Chamber, and I: Introspection on Social Media Polarization."
-    authors: "Nabeel Gillani, Ann Yuan, <b>Martin Saveski</b>, Soroush Vosoughi, Deb Roy"
-    venue: "WWW'18: International Conference on the World Wide Web. 2018. <b>(Honarable mention)</b>"
-    paper_pdf: "/assets/publications/2018_social_mirror/paper.pdf"
-    video: "https://drive.google.com/file/d/0B9-P1m1JkZA7UTRuMUFWcTNueXM/view"
+    # video: "https://www.youtube.com/watch?v=OQOUHkJdA-U"
+    selected: y
+  - title: "LF-PPL: A Low-Level First Order Probabilistic Programming Language for Non-Differentiable Models."
+    authors: "<b>Bradley Gram-Hansen</b>*, Yuan Zhou*, Tobias Kohn, Tom Rainforth, Hongseok Yang, Frank Wood"
+    venue: "AISTATS'19:  International Conference on Artificial Intelligence and Statistics. 2019"
+    paper_pdf: "/assets/publications/2019_lfppl/paper.pdf"
+    code: "https://github.com/bradleygramhansen/PyLFPPL"
     selected: y
 
-  - title: "Detecting Network Effects: Randomizing Over Randomized Experiments."
-    authors: "<b>Martin Saveski*</b>, Jean Pouget-Abadie*, Guillaume Saint-Jacques, Weitao Duan, Souvik Ghosh, Ya Xu, Edo Airoldi"
-    venue: "KDD'17: International Conference on Knowledge Discovery and Data Mining. 2017. (Research Track)"
-    paper_pdf: "/assets/publications/2017_detecting_network_effects/paper.pdf"
+
+  - title: "Mapping Informal Settlements in Developing Countries using Machine Learning and Low Resolution Multi-spectral Data."
+    authors: "<b>Bradley J Gram-Hansen</b>, Patrick Helber, Indhu Varatharajan, Faiza Azam, Alejandro Coca-Castro, Veronika Kopackova, Piotr Bilinski"
+    venue: "AAAI'19: Proceedings of the 2019 AAAI/ACM Conference on AI, Ethics, and Society, 2019"
+    paper_pdf: "/assets/publications/2019_mappinginformal/paper.pdf"
+    code: "https://github.com/FrontierDevelopmentLab/informal-settlements"
     selected: y
 
-  - title: "Testing for arbitrary interference on experimentation platforms."
-    authors: "Jean Pouget-Abadie*, <b>Martin Saveski*</b>, Guillaume Saint-Jacques, Weitao Duan, Souvik Ghosh, Ya Xu, Edo Airoldi"
-    venue: "Preprint"
-    paper_pdf: "https://arxiv.org/abs/1704.01190"
+  - title: "Hamiltonian Monte Carlo for Probabilistic Programs with Discontinuities."
+    authors: "<b>Bradley Gram-Hansen</b>, Yuan Zhou, Tobias Kohn, Tom Rainforth, Hongseok Yang, Frank Wood"
+    venue: "ProbProg'18: International Conference on Probabilistic Programming. 2018."
+    paper_pdf: "/assets/publications/2018_hmc_probprog/paper.pdf"
+    code: "https://github.com/bradleygramhansen/PyLFPPL"
     selected: n
 
-  - title: "Human Atlas: A Tool for Mapping Social Networks."
-    authors: "<b>Martin Saveski</b>, Eric Chu, Soroush Vosoughi, Deb Roy"
-    venue: "WWW'16: International Conference on the World Wide Web. 2016. (Demo)"
-    paper_pdf: "/assets/publications/2016_human_atlas/paper.pdf"
-    video: "https://www.youtube.com/watch?v=OQOUHkJdA-U"
-    selected: n
 
-  - title: "Topic Modeling in Twitter: Aggregating Tweets by Conversations"
-    authors: "David Alvarez-Melis*, <b>Martin Saveski*</b>"
-    venue: "ICWSM'16: International AAAI Conference on Web and Social Media. 2016. (Short Paper)"
-    paper_pdf: "/assets/publications/2016_twitter_topic_modeling/paper.pdf"
-    poster: "/assets/publications/2016_twitter_topic_modeling/poster.pdf"
-    selected: n
-
-  - title: "Tracking the Yak: An Empirical Study of Yik Yak."
-    authors: "<b>Martin Saveski</b>, Sophie Chou, Deb Roy."
-    venue: "ICWSM'16: International AAAI Conference on Web and Social Media. 2016. (Short Paper)"
-    paper_pdf: "/assets/publications/2016_yikyak/paper.pdf"
-    poster: "/assets/publications/2016_yikyak/poster.pdf"
-    selected: n
-
-  - title: "One-Pass Ranking Models for Low-Latency Product Recommendations"
-    authors: "Antonino Freno, <b>Martin Saveski</b>, Rodolphe Jenatton, Cédric Archambeau"
-    venue: "KDD'15: International Conference on Knowledge Discovery and Data Mining. 2015. (Industry Track)"
-    paper_pdf: "/assets/publications/2015_one_pass_ranking_models/paper.pdf"
-    poster: "/assets/publications/2015_one_pass_ranking_models/poster.pdf"
-    slides: "/assets/publications/2015_one_pass_ranking_models/slides.pdf"
+  - title: "Hijacking Malaria Simulators with Probabilistic Programming."
+    authors: "<bBradley Gram-Hansen*</b>, Christian Schröder de Witt*, Tom Rainforth, Philip HS Torr, Yee Whye Teh, Atılım Güneş Baydin"
+    venue: "ICML'19: International Conference on Machine Learning AI for Social Good workshop. 2019."
+    paper_pdf: "/assets/publications/2019_malaria/paper.pdf"
+    poster: "https://docs.google.com/presentation/d/1obDkTjoNGvvuSL-oxpSqe1miHVhpVKk79J7cOhGn92U/edit?usp=sharing"
     selected: y
 
-  - title: "Item Cold-Start Recommendations: Learning Local Collective Embeddings."
-    authors: "<b>Martin Saveski</b>, Amin Mantrach."
-    venue: "RecSys'14, ACM Conference Series on Recommender Systems. 2014."
-    paper_pdf: "/assets/publications/2014_item_cold_start/paper.pdf"
-    slides: "/assets/publications/2014_item_cold_start/slides.pdf"
-    code: "https://github.com/msaveski/LCE"
-    selected: y
+  # - title: "One-Pass Ranking Models for Low-Latency Product Recommendations"
+  #   authors: "Antonino Freno, <b>Martin Saveski</b>, Rodolphe Jenatton, Cédric Archambeau"
+  #   venue: "KDD'15: International Conference on Knowledge Discovery and Data Mining. 2015. (Industry Track)"
+  #   paper_pdf: "/assets/publications/2015_one_pass_ranking_models/paper.pdf"
+  #   poster: "/assets/publications/2015_one_pass_ranking_models/poster.pdf"
+  #   slides: "/assets/publications/2015_one_pass_ranking_models/slides.pdf"
+  #   selected: y
 
-  - title: "The Geography of Online News Engagement"
-    authors: "<b>Martin Saveski</b>, Daniele Quercia, Amin Mantrach"
-    venue: "Socinfo'14: International Conference on Social Informatics. 2014."
-    paper_pdf: "/assets/publications/2014_geography_of_news/paper.pdf"
-    selected: n
-
-  - title: "Joint semi-supervised Learning of Hidden Conditional Random Fields and Hidden Markov Models"
-    authors: "Yann Soullard, <b>Martin Saveski</b>, Thierry Artières"
-    venue: "Pattern Recognition Letters. 2013."
-    paper_pdf: "/assets/publications/2014_joint_semi_supervised_learning/paper.pdf"
-    selected: y
-
-  - title: "Web Services for Stream Mining: A Stream-Based Active Learning Use Case"
-    authors: "<b>Martin Saveski</b>, Miha Grčar"
-    venue: "ECML PKDD 2011, Workshop on Planning to Learn and Service-Oriented Knowledge Discovery. 2011."
-    paper_pdf: "/assets/publications/2011_active_learning/paper.pdf"
-    selected: n
-
-  - title: "Automatic Construction of Wordnets by Using Machine Translation and Language Modeling"
-    authors: "<b>Martin Saveski</b>, Igor Trajkovski"
-    venue: "In Proceedings of Seventh Language Technologies Conference. 2010."
-    paper_pdf: "/assets/publications/2010_wordnet_construction/paper.pdf"
-    slides: "/assets/publications/2010_wordnet_construction/slides.pdf"
-    selected: y
-
-  - title: "Development of an English-Macedonian Machine Readable Dictionary by Using Parallel Corpora"
-    authors: "<b>Martin Saveski</b>, Igor Trajkovski"
-    venue: "Proceedings of ICT Innovations Conference. 2010."
-    paper_pdf: "/assets/publications/2010_machine_readable_dictionaries/paper.pdf"
-    selected: n
