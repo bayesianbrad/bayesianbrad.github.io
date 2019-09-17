@@ -1,13 +1,13 @@
 ---
-layout: project
+layout: post
 title: Fingerprint Verification System
 ---
 
 <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
 
-This is system I developed as a class project for an introductory Image Processing course during the last year of my undergraduate studies.
+This is system I developed as a class post for an introductory Image Processing course during the last year of my undergraduate studies.
 
-The text below summarizes the main processing steps required for verifying if the fingerprint image belongs to a given person. All details are provided in the [project report]({{ "/assets/projects/2010_fingerprint-verification/report.pdf"  | prepend: site.baseurl }} ). Also, the slides I have prepared for [presentation]({{ "/assets/projects/2010_fingerprint-verification/slides.pdf" | prepend: site.baseurl }}) in class provide a good summary (slightly more detailed than what is given below).
+The text below summarizes the main processing steps required for verifying if the fingerprint image belongs to a given person. All details are provided in the [post report]({{ "/assets/posts/2010_fingerprint-verification/report.pdf"  | prepend: site.baseurl }} ). Also, the slides I have prepared for [presentation]({{ "/assets/posts/2010_fingerprint-verification/slides.pdf" | prepend: site.baseurl }}) in class provide a good summary (slightly more detailed than what is given below).
 
 #### Summary
 The process consistis of the following steps:
@@ -29,18 +29,18 @@ The process consistis of the following steps:
 
 {% 
 	include image_with_caption.html 
-	url="/assets/projects/2010_fingerprint-verification/segmentation.png" 
+	url="/assets/posts/2010_fingerprint-verification/segmentation.png" 
 	description="Image Segmentation based on local variance thresholding" 
 	width="100%" 
 %}
 
 
 #### Fingerprint Image Enhancement
-The quality of ridge structure of the FP image is essential for successful feature extraction. In this project, we adopt the Gabor filter as it is both frequency and orientation selective. The filtering includes the following steps: (1) Normalization, (2) Orientation Estimation, (3) Ridge Frequency Estimation.
+The quality of ridge structure of the FP image is essential for successful feature extraction. In this post, we adopt the Gabor filter as it is both frequency and orientation selective. The filtering includes the following steps: (1) Normalization, (2) Orientation Estimation, (3) Ridge Frequency Estimation.
 
 {% 
 	include image_with_caption.html 
-	url="/assets/projects/2010_fingerprint-verification/gabor.png" 
+	url="/assets/posts/2010_fingerprint-verification/gabor.png" 
 	description="Fingerprint Image Enhancement with Gabor Filter" 
 	width="100%" 
 %}
@@ -51,7 +51,7 @@ Refers to the process of conversion from grayscale to binary images.  It is usef
 
 {% 
 	include image_with_caption.html 
-	url="/assets/projects/2010_fingerprint-verification/binarization.png" 
+	url="/assets/posts/2010_fingerprint-verification/binarization.png" 
 	description="Binarization based on global threshold" 
 	width="100%" 
 %}
@@ -62,7 +62,7 @@ Thinning the foreground regions until one pixel wide.
 
 {% 
 	include image_with_caption.html 
-	url="/assets/projects/2010_fingerprint-verification/skeletonization.png" 
+	url="/assets/posts/2010_fingerprint-verification/skeletonization.png" 
 	description="Skeletonization of a binariazed image" 
 	width="100%" 
 %}
@@ -81,7 +81,7 @@ This is illustrated in the following figure.
 
 {% 
 	include image_with_caption.html 
-	url="/assets/projects/2010_fingerprint-verification/menitua-extraction.png" 
+	url="/assets/posts/2010_fingerprint-verification/menitua-extraction.png" 
 	description="Intuition behind the CN number (Maltoni et al., 2009)"
 	width="100%" 
 %}
@@ -90,7 +90,7 @@ All minutiae stored as ($$x$$, $$y$$, $$\theta$$ , $$CN$$) quadruples where — 
 
 {% 
 	include image_with_caption.html 
-	url="/assets/projects/2010_fingerprint-verification/men-extraction.png" 
+	url="/assets/posts/2010_fingerprint-verification/men-extraction.png" 
 	description="Minutiae detected on a skeletonized image"
 	width="100%" 
 %}

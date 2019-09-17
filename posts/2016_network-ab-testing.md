@@ -1,5 +1,5 @@
 ---
-layout: project
+layout: post
 title: Detecting Network Effects
 subtitle: "Randomizing Over Randomized Experiments"
 ---
@@ -24,7 +24,7 @@ in the <a href="{{ '/assets/publications/2017_detecting_network_effects/paper.pd
 **Illustration of the proposed experimental design for detecting network effects.** <br/>
 {%
 	include image_with_caption.html
-	url="/assets/projects/2016_network-ab/main.png"
+	url="/assets/posts/2016_network-ab/main.png"
 	width="100%"
 %}
 **(A)** Graph of all units and the connections between them; the dashed circles represent (equally-sized) clusters. <br/>

@@ -1,0 +1,63 @@
+posts:
+ 
+  - title: "The PhD Life"
+    subtitle: "Avoiding depression and understanding our fears and emotions"
+    thumbnail: "assets/posts/2019_the_phd_life/thumbnail.png"
+    url: "posts/2019_the-phd-life.html"
+    selected: y
+
+  - title: "An Introduction to Hamiltonian Monte Carlo"
+    subtitle: "with an implementation in pytorch"
+    thumbnail: "assets/posts/2018_hmc/thumbnail.png"
+    url: "posts/2019_hmc.html"
+    selected: y
+
+  - title: "How to use Loader Finder Objects in Python"
+    subtitle: "with examples"
+    thumbnail: "assets/posts/2017_loader_finder_python/thumbnail.png"
+    url: "posts/2017_loader-finder-python.html"
+    selected: y
+
+
+  - title: "An Introduction to PySPPL"
+    subtitle: "an extended first-order probabilistic programming langauge"
+    thumbnail: "assets/posts/2018_an-introduction-to-pysppl/thumbnail.jpeg"
+    url: "posts/2018_An-introduction-to-pysppl.html"
+    selected: n
+
+
+  # - title: "Cold-Start Recommendations"
+  #   subtitle: "Learning Local Collective Embeddings"
+  #   thumbnail: "assets/posts/2014_item-cold-start/thumbnail.jpg"
+  #   url: "posts/2014_item-cold-start.html"
+  #   selected: n
+
+  # - title: "Semi-supervised Learning"
+  #   subtitle: "Iterative Hybrid Algorithm"
+  #   thumbnail: "assets/posts/2013_iterative-hybrid-algorithm/thumbnail.jpg"
+  #   url: "posts/2013_iterative-hybrid-algorithm.html"
+  #   selected: n
+
+  # - title: "Twitter Sentiment Analysis"
+  #   subtitle: "Analyzing Financial Tweets"
+  #   thumbnail: "assets/posts/2011_twitter-sentiment-analysis/thumbnail.png"
+  #   url: "posts/2011_twitter-sentiment-analysis.html"
+  #   selected: n
+
+  # - title: "Wordnet Construction"
+  #   subtitle: "Automatic Wordnet Construction using Language Models"
+  #   thumbnail: "assets/posts/2010_wordnet-construction/thumbnail.jpg"
+  #   url: "posts/2010_wordnet-contruction.html"
+  #   selected: n
+
+  # - title: "Fingerprint Verification"
+  #   subtitle: "Image processing class post"
+  #   thumbnail: "assets/posts/2010_fingerprint-verification/thumbnail.png"
+  #   url: "posts/2010_fingerprint-verification.html"
+  #   selected: n
+
+  # - title: "Connect Four AI Agent"
+  #   subtitle: "Iterative deepening and alpha-beta pruning"
+  #   thumbnail: "assets/posts/2009_connect-four/thumbnail.png"
+  #   url: "posts/2009_connect-four.html"
+  #   selected: n

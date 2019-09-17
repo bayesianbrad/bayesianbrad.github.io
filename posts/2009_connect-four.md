@@ -1,11 +1,11 @@
 ---
-layout: project
+layout: post
 title: AI Agent for Connect Four
 subtitle: My First Intelligent System
 ---
 
-<img style="width: 40%; float: left; border: 1px solid black; margin-top: 10px; margin-right: 10px;" src="{{"/assets/projects/2009_connect-four/main.png" | prepend: site.baseurl }}"/>
-This is a program I have developed during my undergraduate studies as a project for an introductory course in Artificial Intelligence. I particularly like this program as it is the first thing I have developed that seems to show intelligence, i.e., can kind of make its own decision, beyond what it was explicitly programmed by a human.
+<img style="width: 40%; float: left; border: 1px solid black; margin-top: 10px; margin-right: 10px;" src="{{"/assets/posts/2009_connect-four/main.png" | prepend: site.baseurl }}"/>
+This is a program I have developed during my undergraduate studies as a post for an introductory course in Artificial Intelligence. I particularly like this program as it is the first thing I have developed that seems to show intelligence, i.e., can kind of make its own decision, beyond what it was explicitly programmed by a human.
 
 [Connect four](http://en.wikipedia.org/wiki/Connect_Four) is a strategy board game where the player who aligns four disks wins. Program has two main components: (1) the search algorithm, and (2) the evaluation function. The evaluation function quantifies how desired or undesired a state of the board is for the agent. The search algorithm helps the agent decided on the next move by efficiently exploring what might be the consequences of each move. This program implements the [Minmax](http://en.wikipedia.org/wiki/Minimax) algorithm with two extensions: [Alpha Beta pruning](http://en.wikipedia.org/wiki/Alpha%E2%80%93beta_pruning) — which substantially cuts the search space; and [iterative deepening](http://en.wikipedia.org/wiki/Iterative_deepening_depth-first_search) — which combines the advantages of depth-first and breadth-first search.
 

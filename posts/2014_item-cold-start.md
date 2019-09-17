@@ -1,5 +1,5 @@
 ---
-layout: project
+layout: post
 title: Item Cold-start Recommendations
 subtitle: Learning Local Collective Embeddings
 ---
@@ -9,7 +9,7 @@ Recommender systems suggest to users items that they might like (e.g., news arti
 
 {% 
 	include image_with_caption.html 
-	url="/assets/projects/2014_item-cold-start/main.jpg" 
+	url="/assets/posts/2014_item-cold-start/main.jpg" 
 	description="The intuition behind learning collective embeddings using matrix factorization"
 	width="100%" 
 %}

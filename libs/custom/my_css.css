@@ -52,22 +52,22 @@ h4 {
 .image {
   text-align: center; }
 
-/*  ================ Project styling  ================ */
-.project-container {
+/*  ================ post styling  ================ */
+.post-container {
   margin-bottom: 30px;
 }
-.project-image-container {
+.post-image-container {
   border: 1px solid rgba(0,0,0,0.2);
   padding: 3px;
   transition: 0.3s;
 }
-.project-image-container:hover {
+.post-image-container:hover {
   transition: 0.3s;
 }
-.project-image-container:hover img {
+.post-image-container:hover img {
   opacity: 0.4;
 }
-.project-caption {
+.post-caption {
   padding: 3px;
 }
 

@@ -1,7 +1,7 @@
 papers:
   - title: "Efficient Probabilistic Inference in the Quest for Physics Beyond the Standard Model"
     authors: "Atilim Gunes Baydin, Lukas Heinrich, Wahid Bhimji, <b>Bradley Gram-Hansen </b>, Gilles Louppe, Lei Shao, Kyle Cranmer, Frank Wood"
-    venue: "NeurlPS'2019: Thirty-third Conference on Neural Information Processing Systems"
+    venue: "NeurlPS'2019: Thirty-third Conference on Neural Information Processing Systems, 2019."
     paper_pdf: "/assets/publications/2019_physics/paper2.pdf"
     code: "https://github.com/etalumis"
     selected: y
@@ -55,19 +55,12 @@ papers:
 
 
   - title: "Multi-layer Stacked Gaussian Processes."
-    authors: "<b>Bradley Gram-Hansen</b>,Stephen Roberts"
+    authors: "<b>Bradley Gram-Hansen</b>, Stephen Roberts"
     venue: "Preprint"
     paper_pdf: "/assets/publications/2017_gp/paper.pdf"
     code: "https://github.com/bayesianbrad/Stacked_kernel"
     selected: n
-
-  - title: "Multi-layer Stacked Gaussian Processes."
-    authors: "<b>Bradley Gram-Hansen</b>,Stephen Roberts"
-    venue: "Preprint"
-    paper_pdf: "/assets/publications/2017_gp/paper.pdf"
-    code: "https://github.com/bayesianbrad/Stacked_kernel"
-    selected: n
-
+  
   - title: "Dissertation: An investigation into the creation of entanglement mediated by interaction."
     authors: "<b>Bradley Gram-Hansen</b>"
     venue: "Dissertation. Supervised by <b>Alexander Ossipov</b> "

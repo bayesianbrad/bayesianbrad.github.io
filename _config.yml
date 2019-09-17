@@ -3,5 +3,5 @@
 # includes:    ./_includes
 baseurl: ""
 collections:
-  projects:
+  posts:
     output: true

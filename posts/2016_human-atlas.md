@@ -1,5 +1,5 @@
 ---
-layout: project
+layout: post
 title: Human Atlas
 subtitle: A Tool for Mapping Social Networks
 ---
