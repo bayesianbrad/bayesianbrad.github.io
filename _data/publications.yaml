@@ -44,11 +44,4 @@ papers:
     poster: "https://docs.google.com/presentation/d/1obDkTjoNGvvuSL-oxpSqe1miHVhpVKk79J7cOhGn92U/edit?usp=sharing"
     selected: y
 
-  # - title: "One-Pass Ranking Models for Low-Latency Product Recommendations"
-  #   authors: "Antonino Freno, <b>Martin Saveski</b>, Rodolphe Jenatton, Cédric Archambeau"
-  #   venue: "KDD'15: International Conference on Knowledge Discovery and Data Mining. 2015. (Industry Track)"
-  #   paper_pdf: "/assets/publications/2015_one_pass_ranking_models/paper.pdf"
-  #   poster: "/assets/publications/2015_one_pass_ranking_models/poster.pdf"
-  #   slides: "/assets/publications/2015_one_pass_ranking_models/slides.pdf"
-  #   selected: y
 
