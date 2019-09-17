@@ -38,7 +38,7 @@ papers:
     selected: y
   
   
-  - title: Generating Material Maps to Map Informal Settlements."
+  - title: "Generating Material Maps to Map Informal Settlements."
     authors: "<b>Bradley J Gram-Hansen</b>*, Patrick Helber*, Indhu Varatharajan, Faiza Azam, Alejandro Coca-Castro, Veronika Kopackova, Piotr Bilinski"
     venue: "NeurlPS'18: NeurlPS workshop on Machine Learning for the Developing World (ML4DW), 2018"
     paper_pdf: "/assets/publications/2019_material/paper.pdf"
