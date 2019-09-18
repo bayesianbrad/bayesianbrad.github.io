@@ -15,11 +15,11 @@ But there are times when things in life can get a little too much.
 Over the years, both in and out of academia I have seen an increase in those becoming depressed, disillusioned and struggling to deal with the general pressures of life and work. I too have been through that cycle and I thought that I would give some advice based on my own experiences in academia on how I navigated my way through the hard times and how I deal with them as they arise in the present.</p>
 
 <h2 id="fears-and-emotions">Fears and Emotions</h2>
- <img src="https://drive.google.com/uc?export=view&id=1cRWsG5gOZSGAtxN3s-i0HOe3sWbC0SDe" style="width: 300px; max-width: 100%; height: auto; float: right" alt="Click for the larger version." />
   
 <p>This is an emotive piece and its important to develop a perspective on those emotions and fears.
 We all have them and in many ways it is what makes us human. They are not bad things, but sometimes they can have exaggerated effects on us and it can be difficult to control those effects. 
  </p>
+   <div style="display: flex ; justify-content: center;"><img src="https://mooc-images.ncl.ac.uk/comfort/images/wordcloud4.png" style="width: 300px; max-width: 100%; height: auto;" alt="Click for the larger version." /></div>
 
 <h3 id="pressure">Pressure</h3>
 
