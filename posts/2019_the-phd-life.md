@@ -53,7 +53,7 @@ Have ye' little faith and appreciate people's differences regardless of disabili
 
 <p> Okay, we've gone through the fears and emotions, it can all seem a little gloomy, but how do we prepare ourselves for them and how do we get in control of them? </p>
 
-<h3 id="experience"> Dealing with Emotions, Stresses and Fears</h3>
+<h3 id="experience">Controlling your Emotions and Fears</h3>
 
 <p>It is weird, all the pressures that you feel are all, to some degree, self-inflicted.
 I am the one that wants things to be perfect, I am the one who places the pressure on myself to perform, I am the one who creates many of these predefined constructs which themselves place pressure on me. Yes, you have deadlines, you have external pressures from others and financial burdens, but, if we think about these sensibly we can mitigate much of the stresses that are associated with them because they are constructed by you, or me and so we have control over them. </p>
