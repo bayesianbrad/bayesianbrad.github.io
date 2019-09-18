@@ -96,7 +96,7 @@ Thankfully, I now have four fabulous supervisors, who are respectful, knowledgea
 <p>I would pose the following question to yourself, can I prove my supervisor wrong about a particular problem that they have set you to work on?
  Why do this? Well, in trying to prove them wrong, not only are you going to have to get incredibly acquainted with what they are doing, giving you depth, but you are also going to get breadth, from constantly questioning <i>is this the right thing to do</i> as you search for counterexamples. The harder it gets to come up with counterexamples, the more faith you will develop in your own research and the more belief you will have that what you are doing is worthwhile.</p> 
 
-<p>Best of all, if you gain the depth of knowledge about that problem then you will be able to make positive contributions to the field, no matter how small. Equally, if you develop that counterexample, or find that their problem has no solution,  then you also get to publish and open up an entirely new direction. You win either way. </p>
+<p>Best of all, if you gain the depth of knowledge about that problem then you will be able to make positive contributions to the field, no matter how small. Equally, if you develop that counterexample, or find that their problem has no solution,  then you also get to publish and open up an entirely new direction. <b> You win either way </b>. </p>
 
 
 
