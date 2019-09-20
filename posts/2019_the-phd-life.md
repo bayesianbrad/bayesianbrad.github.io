@@ -16,7 +16,7 @@ Over the years, both in and out of academia I have seen an increase in those bec
 
 <h3 id="fears-and-emotions">Fears and Emotions</h3>
   
-<p>We all have them and in many ways it is what makes us human. They are not bad things, but sometimes they can have exaggerated effects on us and it can be difficult to control those effects especially during work. 
+<p>We all have them and in many ways it is what makes us human. They are not bad things, but sometimes they can have exaggerated effects on us and it can be difficult to control those effects especially during work.<b>#EmotionsAreComplicated</b>
  </p>
    <div style="display: flex ; justify-content: center;"><img src="https://mooc-images.ncl.ac.uk/comfort/images/wordcloud4.png" style="width: 300px; max-width: 100%; height: auto;" alt="Click for the larger version." /></div>
 
@@ -32,7 +32,7 @@ You may also have to deal with a problematic supervisor, it can happen and I had
 <h4 id="worry">Worry</h4>
 
 <p>
-If I fail, what happens? Am I good enough? Do I have the ability to succeed? Can I actually solve this problem? Is what I am doing good enough?  </p>
+If I fail, what happens? Am I good enough? Do I have the ability to succeed? Can I actually solve this problem? Is what I am doing good enough?<b>#SoManyDoubts</b>  </p>
 
 
 <h4 id="life">Life</h4>
