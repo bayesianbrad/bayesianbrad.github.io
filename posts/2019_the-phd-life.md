@@ -61,7 +61,7 @@ Because a PhD and research in general is a great thing to do, especially when yo
 I am the one that wants things to be perfect, I am the one who places the pressure on myself to perform and I am the one who creates many of these fabricated constructs.
 It is true that society can be blamed for creating some of these pressures, but I am the one who chooses to inflict them upon myself, both consciously 
 and sub-consciously. 
-Of course we have deadlines, external pressures from others and financial burdens, but, if we think about these sensibly we can mitigate much of the stresses that are associated with them because they are constructed by us, and so we have control over them. </p>
+Of course we have deadlines, external pressures from others and financial burdens, but, if we think about these sensibly we can mitigate much of the stresses that are associated with them because they are constructed by us, and so we have control over them. <b>#YouHaveThePower!</b> </p>
 <p>One exercise I have found incredibly useful over the years is the following. On a piece of paper construct three columns. In the first column write down the current stresses in your life, in the middle column write down what is the worst thing that can happen if that stress is to continue, or if it is realised, then in the final column reason with how you will mitigate it to the best of your ability, or reduce the impact of the given stresses.</p> 
 <p>
 <img src=
@@ -85,7 +85,7 @@ Second, I will work to understand what is causing my doubt and I will explain th
 <h4 id="my-phd"> My PhD</h4>
 
 
-<p>I started my PhD full of excitement, anxiety (would I be good enough? Will I fail?) and curiosity. When I choose to do a PhD over going into industry I knew full well the workload that would follow and the sacrifices that were going to be made. But, I don't think I realised just how much of a roller coaster it was going to be. Long nights, hard days. Good problems, bad problems. A diminishing social life, a temporary deprecation in health and a reduction in patience. I've had it all. Things are much better now.</p>
+<p>I started my PhD full of excitement, anxiety (would I be good enough? Will I fail?) and curiosity. When I choose to do a PhD over going into industry I knew full well the workload that would follow and the sacrifices that were going to be made. But, I don't think I realised just how much of a roller coaster it was going to be. Long nights, hard days. Good problems, bad problems. A diminishing social life, a temporary deprecation in health and a reduction in patience. I've had it all. Things are much better now. <b>#LearntLessons</b></p>
 <p>
 <img src="https://drive.google.com/uc?export=view&id=1LpA-dpp1oeewKlHQqkwxOY20fyBcLsjD" style="width: 300px; max-width: 100%; height: auto; float: right" alt="" />
 </p>
@@ -99,7 +99,7 @@ Second, I will work to understand what is causing my doubt and I will explain th
 Do not do it. Do not brag about it. If anything, warn people not to make the same mistakes. <b>Do not make the same mistake as me</b>. One or two, that is kind of part of the job, but minimise them as much as possible.
 It is really not good for your health and worst of all your body becomes accustomed to it, making it difficult to reverse and no, your body doesn't just magically avoid all the problems associated with that, it will hit you in the backside at some point. For me, I noticed that it was after doing sports, it would take me so much longer to recover.
 Whilst it is true that I do not sleep a lot, I never have, it is important to give your body what it needs. Listen to it and do as it tells you to do.
-Thankfully, I now have four fabulous supervisors, who are respectful, knowledgeable and caring. The <a href="https://www.eng.ox.ac.uk/aims-cdt/">AIMS</a> program was also incredibly supportive during that time period.</p>
+Thankfully, I now have four fabulous supervisors, who are respectful, knowledgeable and caring. The <a href="https://www.eng.ox.ac.uk/aims-cdt/">AIMS</a> program was also incredibly supportive during that time period.<b>#TalkToOthers</b></p>
 
 <h3 id="prevention"> Prevention</h3>
 
