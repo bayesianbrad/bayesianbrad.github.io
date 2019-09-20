@@ -6,7 +6,7 @@ posts:
     url: "posts/2019_the-phd-life.html"
     selected: y
 
-  - title: "An Introduction to Hamiltonian Monte Carlo"
+  - title: "The beginnners guide to Hamiltonian Monte Carlo"
     subtitle: "with an implementation in pytorch"
     thumbnail: "assets/posts/2018_hmc/thumbnail.png"
     url: "posts/2019_hmc.html"
@@ -26,11 +26,11 @@ posts:
     selected: n
 
 
-  # - title: "Cold-Start Recommendations"
-  #   subtitle: "Learning Local Collective Embeddings"
-  #   thumbnail: "assets/posts/2014_item-cold-start/thumbnail.jpg"
-  #   url: "posts/2014_item-cold-start.html"
-  #   selected: n
+  - title: "How to Backpack with just hand luggage"
+    subtitle: "I spent just $5 on accomedation in Hawaii... let that sink in."
+    thumbnail: "assets/posts/2014_item-cold-start/thumbnail.jpg"
+    url: "posts/2014_item-cold-start.html"
+    selected: n
 
   # - title: "Semi-supervised Learning"
   #   subtitle: "Iterative Hybrid Algorithm"
