@@ -87,7 +87,7 @@ Second, I will work to understand what is causing my doubt and I will explain th
 
 <p>I started my PhD full of excitement, anxiety (would I be good enough? Will I fail?) and curiosity. When I choose to do a PhD over going into industry I knew full well the workload that would follow and the sacrifices that were going to be made. But, I don't think I realised just how much of a roller coaster it was going to be. Long nights, hard days. Good problems, bad problems. A diminishing social life, a temporary deprecation in health and a reduction in patience. I've had it all. Things are much better now. <b>#LearntLessons</b></p>
 <p>
-<img src="https://drive.google.com/uc?export=view&id=1LpA-dpp1oeewKlHQqkwxOY20fyBcLsjD" style="width: 300px; max-width: 100%; height: auto; float: right" alt="" />
+<img src="https://drive.google.com/uc?export=view&id=1LpA-dpp1oeewKlHQqkwxOY20fyBcLsjD" style="width: 300px; max-width: 100%; height: auto; float: right" alt="XKCD meme" />
 </p>
 
 <p>Whilst I would still choose to do a PhD despite all that I now know, I do think that it is important to reflect on the pressures in academia, especially in the field of machine learning and "AI", which is an exciting, fast-moving field, but with that comes a need to develop and publish ideas fast to avoid being beaten to the post. This is both fine and not fine, provided you have the right supervisor/s. On the one hand, a PhD should be about exploring a particular topic in-depth and developing mastery over that, on the other hand, this field can force you to produce small deltas which stop you from exploring quirky questions and instead gives you empirical mastery (insider neural net joke)...</p>
@@ -119,7 +119,7 @@ don't know how to escape. </p>
 
 <p>Take a deep breath, step back, take another deep breath and sit down. </p>
 
-<img src="https://doodleeducation.com/wp-content/uploads/2017/05/keep-calm-and-stay-positive.jpg"  style="width: 300px; max-width: 100%; height: auto; float:left" alt="Click for the larger version."/>
+<p><img src="https://doodleeducation.com/wp-content/uploads/2017/05/keep-calm-and-stay-positive.jpg"  style="width: 300px; max-width: 100%; height: auto; float:left" alt="Click for the larger version."/></p>
 <p><b>First</b>, remember 
 <blockquote>
 luck == hard work.
