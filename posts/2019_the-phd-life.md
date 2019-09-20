@@ -49,7 +49,7 @@ It is usually difficult for people to grasp them, as they don't see a missing le
 Have ye' little faith and appreciate people's differences regardless of disability, gender, race etc, they usually are strengths!  -->
 
 
-<h3> id="protecting-you">Protecting You</h3>
+<h3 id="protecting-you">Protecting You</h3>
 
 <p> Okay, we've gone through the fears and emotions that you may, and most definitely will feel during a PhD. 
 It can all seem a little gloomy, but how do we prepare ourselves and how do we get back in control of our emotions, so that we can dictate the situation and not them? 
