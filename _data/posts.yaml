@@ -23,7 +23,7 @@ posts:
     thumbnail: "assets/posts/2019_hawaii/thumbnail.jpg"
     url: "posts/2019_Backpacking-with-just-hand-luggage.html"
     selected: n
-    
+
   - title: "An Introduction to PySPPL"
     subtitle: "an extended first-order probabilistic programming langauge"
     thumbnail: "assets/posts/2018_an-introduction-to-pysppl/thumbnail.jpeg"
