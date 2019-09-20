@@ -18,7 +18,12 @@ posts:
     url: "posts/2017_loader-finder-python.html"
     selected: y
 
-
+  - title: "Backpacking with just hand luggage"
+    subtitle: "I spent just $5 on accomedation in Hawaii... let that sink in."
+    thumbnail: "assets/posts/2019_hawaii/thumbnail.jpg"
+    url: "posts/2019_Backpacking-with-just-hand-luggage.html"
+    selected: n
+    
   - title: "An Introduction to PySPPL"
     subtitle: "an extended first-order probabilistic programming langauge"
     thumbnail: "assets/posts/2018_an-introduction-to-pysppl/thumbnail.jpeg"
@@ -26,11 +31,6 @@ posts:
     selected: n
 
 
-  - title: "How to Backpack with just hand luggage"
-    subtitle: "I spent just $5 on accomedation in Hawaii... let that sink in."
-    thumbnail: "assets/posts/2014_item-cold-start/thumbnail.jpg"
-    url: "posts/2014_item-cold-start.html"
-    selected: n
 
   # - title: "Semi-supervised Learning"
   #   subtitle: "Iterative Hybrid Algorithm"
