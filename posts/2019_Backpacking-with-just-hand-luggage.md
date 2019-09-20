@@ -11,9 +11,9 @@ comments: true
 
 Okay, as an academic I get to travel to some really cool places and I am incredibly privileged to be able to do that, but whenever I have to travel I do it as cheaply and as sustainably as possible - basically backpacking, because I like to usually do a teeny bit of exploring too in the wild.
 
-This usually means that I will try and get my accommodation bill as close to zero as I can. Usually by wild camping somewhere, is what I have been told you should do, but have never personally done it…#PlausibleDeniability.
+This usually means that I will try and get my accommodation bill as close to zero as I can. Usually by wild camping somewhere, is what I have been told you should do, but have never personally done it…**#PlausibleDeniability**.
 
- I managed to spend just $5 on  10 days of accommodation this year, for AAAI 19, which was in Hawaii. I neither accept, nor deny, that I went travelling for a few days during that conference nor do I accept, nor deny that I may have camped in some very strange places... If you were to guess Canyons, Beaches with Whales, beautiful waves of pure cyclic motion, Green turtles, Hawaiian seals and tropical fish, where there is no light pollution as the sky lights up like a comforting night light, then I would have to state that I have no idea what you are talking about…#NatureIsCool.
+ I managed to spend just $5 on  10 days of accommodation this year, for AAAI 19, which was in Hawaii. I neither accept, nor deny, that I went travelling for a few days during that conference nor do I accept, nor deny that I may have camped in some very strange places... If you were to guess Canyons, Beaches with Whales, beautiful waves of pure cyclic motion, Green turtles, Hawaiian seals and tropical fish, where there is no light pollution as the sky lights up like a comforting night light, then I would have to state that I have no idea what you are talking about…**#NatureIsCool**.
 
 <img src="/assets/posts/2019_hawaii/pineapple.jpg" alt="Pineapple" width="300"/>
 
