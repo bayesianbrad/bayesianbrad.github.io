@@ -24,7 +24,9 @@ Over the years, both in and out of academia I have seen an increase in those bec
 
 <p>
 The need to publish is always there and writing a paper, especially if it is your first, is hard.
-You have to find and define the problem, generate experiments that will hopefully back your hypothesis, the associated time pressures for getting everything done before the next deadline, convincing the reviewers and others that your research is worthy. In addition to this, you may also have to deal with a problematic supervisor, it can happen and I had an experience with one such supervisor during the first year of my PhD. Thankfully, they are no longer at the University and no longer supervise me.
+You have to find and define the problem (your supervisor will probably help with this) and generate experiments that hopefully back your hypothesis.
+Then there are the associated time pressures for getting everything done before the next deadline. Finally, there is <i> the sell </i>, convincing the reviewers and others that your research is worthy, this can feel like an uphill battle sometimes. 
+You may also have to deal with a problematic supervisor, it can happen and I had an experience with one such supervisor during the first year of my PhD. Thankfully, they are no longer at the University and no longer supervise me.
 </p>
 
 <h4 id="worry">Worry</h4>
@@ -70,7 +72,7 @@ style="width: 300px; max-width: 100%; height: auto; float: left" alt="" />
 
 An example might be as followed.
 <p> <b>In column one:</b> <i>I keep procrastinating with my work, because I'm scared that I can't accomplish the task I have to do. </i>. </p>
-<p><b>In column two:</b> <i> The worst thing that can happen is that you continue to do nothing, fail at your given project and increase self-doubt in your ability.</i>. 
+<p><b>In column two:</b> <i> The worst thing that can happen is that you continue to do nothing, fail at your given project and increase self-doubt in your ability.</i> 
 <p><b>In column three:</b> <i>  To mitigate this, first, I should talk with my supervisor, friends and support network at the given institution.
 Second, I will work to understand what is causing my doubt and I will explain this to those that I choose to talk to. Third, To remove those doubts I will start on the simple problem, the worst thing that can happen if I start is that I won't finish, but at least I will always be learning, because through my failures I will understand what I need to do to succeed.</i></p>
  
@@ -102,7 +104,7 @@ Thankfully, I now have four fabulous supervisors, who are respectful, knowledgea
 <h3 id="prevention"> Prevention</h3>
 
 <p>Okay, so we have talked about how to control those situations when they arise, but how does one mitigate these pressures? 
-My first piece of advice is to explore, put yourself first and own <b>your</b> stuff. Your supervisor is there to guide you, not control you. Yes, you should be interested in problems that your supervisor is interested in, that is why you choose them after all. But, this doesn’t mean that you have to sacrifice your intellectual curiosities.</p>
+My first piece of advice is to explore, put yourself first and **own your stuff**. Your supervisor is there to guide you, not control you. Yes, you should be interested in problems that your supervisor is interested in, that is why you choose them after all. But, this doesn’t mean that you have to sacrifice your intellectual curiosities.</p>
  <!-- <img src="https://drive.google.com/uc?export=view&id=1s0npsef1X1Rxb5hpyxZxCgpQxpXSvsLn" style="width: 300px; max-width: 100%; height: auto; float:left" alt="Click for the larger version." />
 <p>I would pose the following question to yourself, can I prove my supervisor wrong about a particular problem that they have set you to work on?
  Why do this? Well, in trying to prove them wrong, not only are you going to have to get incredibly acquainted with what they are doing, giving you depth, but you are also going to get breadth, from constantly questioning <i>is this the right thing to do</i> as you search for counterexamples. The harder it gets to come up with counterexamples, the more faith you will develop in your own research and the more belief you will have that what you are doing is worthwhile.</p> 
@@ -129,13 +131,13 @@ It gives you a chance to digest what has happened. </p>
 
 <p><b>Third</b>, talk! 
 We are by construction wired to communicate. Talk to your peers, supervisor and support networks at the given institution. Talking to others and not just inside your head is one of the most useful techniques I have found for actually understanding the issues that are going on in my head!  In talking to others we rationalise and we find that solutions naturally arise. Because in talking to others we gain new perspectives. Opening up, especially if you are shy, we all are, can be difficult to do, especially when we have to talk about things that are more sensitive. 
-Regardless of the sensitivity of the topic, the best solution for all of it has been to talk. To let out all those stresses and strains, to bring peace to your own emotional state. It is so easy to say, but so hard to do. But, I cannot stress enough the importance of talking to others. It always helps to have independent viewpoints on a situation, to prevent yourself from being stuck in one line of thought, confirmation bias.</p>
+I have personally found that regardless of the sensitivity of the topic, the best solution for has always been to talk. To let out all those stresses and strains, to bring peace to your own emotional state. It is so easy to say, but so hard to do. But, I cannot stress enough the importance of talking to others. It always helps to have independent viewpoints on a situation, to prevent yourself from being stuck in one line of thought, <b>#ConfirmationBias</b>.</p>
 
-<p><b>Fourth</b>, appreciate what you have, be grateful for what you have access to in life, appreciate the world around you and take note of the small things in life, they are easy to forget, but when we think about them we realise that there are many things in life to be happy about. 
+<p><b>Fourth</b>, appreciate what you have, be grateful for what you have access to in life, appreciate the world around you and take note of the small things in life, they are easy to forget, but when we think about them we realise that there are many things in life to be happy about. </p>
 
 <h2 id="in-conclusion">In Conclusion…</h2>
 
-<p>I hope that the advice presented here will help you to overcome the roadblocks that you will face, whether in academia, industry or just life. I hope that for those deciding whether a PhD is for me, that this post provides a viewpoint that not everyone will tell you, but that everyone knows and is a good thing to be aware of.</p>
+<p>I hope that the advice presented here will help you to overcome the roadblocks that you will face, whether that is in academia, industry or just life. I hope that for those deciding whether a PhD is for me that this post provides a viewpoint that not everyone will tell you, but that everyone knows and is a good thing to be aware of.</p>
 <p>
 I know that It is always much easier to tell people to do things, and magnitudes harder to sometimes do those things when you feel as though you are trapped in a situation, but, I assure you, if you open up, talk and manage your expectations and fears you can bring balance too your life and PhD.
 Despite what the media says, most people are there to be friendly, to support you and help you. Yes, there is the occasional douche bag, I have met a few myself, but most people have your best interests at heart. The more diverse range of people you talk with, the more you will realise this.</p>
