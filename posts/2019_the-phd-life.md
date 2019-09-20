@@ -148,9 +148,9 @@ Despite what the media says, most people are there to be friendly, to support yo
 I know that this is a long post, but I just want you to know, a PhD is a great experience but always look after yourself and your own mental health. There are always more deadlines for you to aim towards in the future, so don’t worry about always trying to hit the deadline in the present if things aren’t going so well and sometimes things just need a little more time. It is better to do a job well, than to do a job half done. 
 Take the time to reflect on the things that you are doing and always try to put things in perspective, if you can. You will probably find that things are much better than you had originally thought. Most importantly, enjoy the things that you do and the things that you have, you only live once and you can NEVER buy time back, regardless of how much money you have, or make.</p>
 
-
-And remember: 
+And remember:
 
 <div style="display: flex ; justify-content: center;"><img src="https://drive.google.com/uc?export=view&id=1dmjbuCI4P0be4hx0hUE00kX1gbvv64yT" style="width: 500px; max-width: 100%; height: auto;" alt="Click for the larger version." /></div>
 
-
+<p></p>
+<p>A big thank you to <a href="http://adamgol.me">Adam Golinskí</a> who took the time to read the post and provide me with valuable suggestions. <b>#FriendsAreAwesome</b>.</p>
