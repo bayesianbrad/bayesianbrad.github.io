@@ -7,7 +7,7 @@ title:  "The PhD Life"
 comments: true
 ---
  <div style="display: flex ; justify-content: center;"><img src="https://imgs.xkcd.com/comics/honest.png" style="width: 300px; max-width: 100%; height: auto; float: middle" alt="Click for the larger version." /></div>
-<h2 id="problems">Problems</h2>
+<h3 id="problems">Problems</h3>
 
 <p>As an academic, I would say that I do love problems; easy ones, hard ones and those that just seems damn right impossible.
 But there are times when things in life can get a little too much.
@@ -49,13 +49,13 @@ It is usually difficult for people to grasp them, as they don't see a missing le
 Have ye' little faith and appreciate people's differences regardless of disability, gender, race etc, they usually are strengths!  -->
 
 
-<h2 id="protecting-you">Protecting You</h2>
+<h3> id="protecting-you">Protecting You</h3>
 
 <p> Okay, we've gone through the fears and emotions that you may, and most definitely will feel during a PhD. 
 It can all seem a little gloomy, but how do we prepare ourselves and how do we get back in control of our emotions, so that we can dictate the situation and not them? 
 Because a PhD and research in general is a great thing to do, especially when you are the one in control.</p>
 
-<h3 id="experience">Controlling your Emotions and Fears</h3>
+<h4 id="experience">Controlling your Emotions and Fears</h4>
 
 <p>It is weird, the majority of pressures that you feel, as a researcher, are all, to some degree, self-inflicted.
 I am the one that wants things to be perfect, I am the one who places the pressure on myself to perform and I am the one who creates many of these fabricated constructs.
@@ -135,7 +135,7 @@ I have personally found that regardless of the sensitivity of the topic, the bes
 
 <p><b>Fourth</b>, appreciate what you have, be grateful for what you have access to in life, appreciate the world around you and take note of the small things in life, they are easy to forget, but when we think about them we realise that there are many things in life to be happy about. </p>
 
-<h2 id="in-conclusion">In Conclusion…</h2>
+<h3 id="in-conclusion">In Conclusion…</h3>
 
 <p>I hope that the advice presented here will help you to overcome the roadblocks that you will face, whether that is in academia, industry or just life. I hope that for those deciding whether a PhD is for me that this post provides a viewpoint that not everyone will tell you, but that everyone knows and is a good thing to be aware of.</p>
 <p>
