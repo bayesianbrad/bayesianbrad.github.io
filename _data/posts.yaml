@@ -1,12 +1,17 @@
 posts:
- 
+  # - title: "Quantum mechanics for the Machine Learner"
+  #   subtitle: "want to find out more, look inside!"
+  #   thumbnail: "assets/posts/2019_quantum/quantprob.jpeg"
+  #   url: "posts/2019_quantum_mechanics_for_the_machine_learner.html"
+  #   selected: n
+
   - title: "The PhD Life"
     subtitle: "Avoiding depression and understanding our fears and emotions"
     thumbnail: "assets/posts/2019_the_phd_life/thumbnail.png"
     url: "posts/2019_the-phd-life.html"
     selected: y
 
-  - title: "The beginnners guide to Hamiltonian Monte Carlo"
+  - title: "The beginners guide to Hamiltonian Monte Carlo"
     subtitle: "with an implementation in pytorch"
     thumbnail: "assets/posts/2018_hmc/thumbnail.png"
     url: "posts/2019_hmc.html"
