@@ -15,7 +15,7 @@ Nonetheless, I have a unique perspective on both fields as my background is in q
 
 ### Formalism
 
-We have to start somewhere , for me one of the trickiest parts from moving from quantum mechanics to machine learning was notations, despite the fact that both rely heavily on linear algebra, they are  stylistically quite different, so lets make sure that we are all on the same page.
+We have to start somewhere, for me one of the trickiest parts from moving from quantum mechanics to machine learning was notations, despite the fact that both rely heavily on linear algebra, they are  stylistically quite different, so lets make sure that we are all on the same page.
 
 The first set of notations that we shall go through are for describing the quantum state, or just state and operator formalisms of quantum mechanics. 
 A state, in purely semantic
