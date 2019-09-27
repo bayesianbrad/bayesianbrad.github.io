@@ -3,6 +3,7 @@ layout: post
 title:  "Quantum Mechanics for the Machine Learner"
 comments: true
 ---
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-AMS-MML_HTMLorMML.js"></script>
 
 These notes are based on a reading group that I was asked to do for the [OXCSML](http://csml.stats.ox.ac.uk/learning/) group at Oxford University and I thought that I may as well share them with the community as hopefully they will be of use to others :).
 
@@ -10,14 +11,17 @@ These notes are based on a reading group that I was asked to do for the [OXCSML]
 
 Ok, let's face it, two of the biggest hyped fields right now are Quantum computing and Machine learning, sometimes called *ai*, although I've yet to be convinced by the 
 *ai* part yet.
-Nonetheless, I have a unique perspective on both fields as my background is in quantum information science and I retrained, thanks to the [AIMS program](https://www.eng.ox.ac.uk/aims-cdt/) at Oxford University, to become a Statistical Machine learning researcher, also called Statistics researcher, but, you know, that is not cool anymore... #FundingGoals
+Nonetheless, I have a unique perspective on both fields as my background is in quantum information science and I retrained, thanks to the [AIMS program](https://www.eng.ox.ac.uk/aims-cdt/) at Oxford University, to become a Statistical Machine learning researcher, also called Statistics researcher, but, you know, that is not cool anymore... **#FundingGoals**
 
 
 ### Formalism
 
-We have to start somewhere, for me one of the trickiest parts from moving from quantum mechanics to machine learning was notations, despite the fact that both rely heavily on linear algebra, they are  stylistically quite different, so lets make sure that we are all on the same page.
+We have to start somewhere, for me one of the trickiest parts from moving from quantum mechanics to machine learning was notations, despite the fact that both rely heavily on linear algebra they are stylistically quite different, so lets make sure that we are all on the same page.
 
-The first set of notations that we shall go through are for describing the quantum state, or just state and operator formalisms of quantum mechanics. 
+The first set of notations that we shall go through are for describing the quantum state $$\left|\phi\right\rangle$$, or just state and operator formalisms of quantum mechanics. For this we shall use the *bra-ket* notation, where the *bra* is $$\left\langle \phi\right|$$ and the *ket* is $$\left|\phi\right\rangle$$ get it? *bracket* $$\left\langle \phi | \phi \right\rangle$$.
+Paul Dirac knew what he was doing here...
+<img src="/assets/posts/2019_quantum/braket.jpg" alt="braket notation" style="width: 250px; height: auto; float: right" />
+
 A state, in purely semantic
 terms is just a vector on $$\mathbb{C}^{D x 1}$$ i.e it is just a row vector defined in the complex domain, we will get to why this is later. Cool. 
 It can be both discrete, or continuous and it has a very powerful meaning in quantum mechanics, 

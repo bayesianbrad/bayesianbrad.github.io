@@ -1,4 +1,11 @@
 papers:
+  - title: "Usability of Probabilistic Programming Languages"
+    authors: "Alan Blackwell, Tobias Kohn, Martin Erwig, Atilim Gunes Baydin, Luke Church, James Geddes, Andy Gordon, Maria Gorinova, <b>Bradley Gram-Hansen</b>, Neil Lawrence, Vikash Mansinghka, Brooks Paige, Tomas Petricek, Diana Robinson, Advait Sarkar, Oliver Strickson"
+    venue: "Psychology of Programming Interest Group 30th Annual Workshop, PPIG 2019."
+    paper_pdf: "/assets/publications/2019_usuable_probprog/PPIG2019-accepted.pdf"
+    # code: "https://github.com/etalumis"
+    selected: n
+
   - title: "Efficient Probabilistic Inference in the Quest for Physics Beyond the Standard Model"
     authors: "Atilim Gunes Baydin, Lukas Heinrich, Wahid Bhimji, <b>Bradley Gram-Hansen </b>, Gilles Louppe, Lei Shao, Kyle Cranmer, Frank Wood"
     venue: "NeurlPS'2019: Thirty-third Conference on Neural Information Processing Systems, 2019."
