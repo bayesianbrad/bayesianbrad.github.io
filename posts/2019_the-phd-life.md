@@ -53,7 +53,7 @@ Have ye' little faith and appreciate people's differences regardless of disabili
 
 <p> Okay, we've gone through the fears and emotions that you may, and most definitely will feel during a PhD. 
 It can all seem a little gloomy, but how do we prepare ourselves and how do we get back in control of our emotions, so that we can dictate the situation and not them? 
-Because a PhD and research in general is a great thing to do, especially when you are the one in control.</p>
+Because a PhD and research, in general, is a great thing to do, especially when you are the one in control.</p>
 
 <h4 id="experience">Controlling your Emotions and Fears</h4>
 
@@ -92,7 +92,9 @@ Second, I will work to understand what is causing my doubt and I will explain th
 <img src="https://drive.google.com/uc?export=view&id=1LpA-dpp1oeewKlHQqkwxOY20fyBcLsjD" style="width: 300px; max-width: 100%; height: auto; float: right" alt="XKCD meme" />
 </p>
 
-<p>Whilst I would still choose to do a PhD despite all that I now know, I do think that it is important to reflect on the pressures in academia, especially in the field of machine learning and "AI", which is an exciting, fast-moving field, but with that comes a need to develop and publish ideas fast to avoid being beaten to the post. This is both fine and not fine, provided you have the right supervisor/s. On the one hand, a PhD should be about exploring a particular topic in-depth and developing mastery over that, on the other hand, this field can force you to produce small deltas which stop you from exploring quirky questions and instead gives you empirical mastery (insider neural net joke)...</p>
+<p>
+Whilst I would still choose to do a PhD despite all that I now know, I do think that it is important to reflect on the pressures in academia, especially in the field of machine learning and "AI".
+This is an exciting, fast-moving field, but with that comes a need to develop and publish ideas fast to avoid being beaten to the post. This is both fine and not fine, provided you have the right supervisor/s. On the one hand, a PhD should be about exploring a particular topic in-depth and developing mastery over that, on the other hand, this field can force you to produce small deltas which stop you from exploring quirky questions and instead gives you empirical mastery (insider neural net joke)...</p>
 
 
 <p>I was unfortunate in that the first supervisor I choose was not the most ideal. I appreciated the way that they would give me drive, but at the same time with that came enormous pressure to publish at conferences at all costs, including sacrificing my own intellectual curiosities. In the end, I realised that this had been quite detrimental to my health. My supervisor at the time also conducted some very unprofessional behaviour, but thankfully they are no longer in Oxford or the UK.</p>
