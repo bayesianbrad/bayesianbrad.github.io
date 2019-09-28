@@ -69,8 +69,10 @@ Of course we have deadlines, external pressures from others and financial burden
 style="width: 300px; max-width: 100%; height: auto; float: left" alt="" />
 </p>
 <p>
-
+</p>
+<p>
 An example might be as followed.
+</p>
 <p> <b>In column one:</b> <i>I keep procrastinating with my work, because I'm scared that I can't accomplish the task I have to do. </i>. </p>
 <p><b>In column two:</b> <i> The worst thing that can happen is that you continue to do nothing, fail at your given project and increase self-doubt in your ability.</i> 
 <p><b>In column three:</b> <i>  To mitigate this, first, I should talk with my supervisor, friends and support network at the given institution.
@@ -89,7 +91,7 @@ Second, I will work to understand what is causing my doubt and I will explain th
 <p>
 <img src="https://drive.google.com/uc?export=view&id=1LpA-dpp1oeewKlHQqkwxOY20fyBcLsjD" style="width: 300px; max-width: 100%; height: auto; float: right" alt="XKCD meme" />
 </p>
-<p></p>
+
 <p>Whilst I would still choose to do a PhD despite all that I now know, I do think that it is important to reflect on the pressures in academia, especially in the field of machine learning and "AI", which is an exciting, fast-moving field, but with that comes a need to develop and publish ideas fast to avoid being beaten to the post. This is both fine and not fine, provided you have the right supervisor/s. On the one hand, a PhD should be about exploring a particular topic in-depth and developing mastery over that, on the other hand, this field can force you to produce small deltas which stop you from exploring quirky questions and instead gives you empirical mastery (insider neural net joke)...</p>
 
 
@@ -104,7 +106,7 @@ Thankfully, I now have four fabulous supervisors, who are respectful, knowledgea
 <h3 id="prevention"> Prevention</h3>
 
 <p>Okay, so we have talked about how to control those situations when they arise, but how does one mitigate these pressures? 
-My first piece of advice is to explore, put yourself first and **own your stuff**. Your supervisor is there to guide you, not control you. Yes, you should be interested in problems that your supervisor is interested in, that is why you choose them after all. But, this doesn’t mean that you have to sacrifice your intellectual curiosities.</p>
+My first piece of advice is to explore, put yourself first and <b>own your stuff</b>. Your supervisor is there to guide you, not control you. Yes, you should be interested in problems that your supervisor is interested in, that is why you choose them after all. But, this doesn’t mean that you have to sacrifice your intellectual curiosities.</p>
  <!-- <img src="https://drive.google.com/uc?export=view&id=1s0npsef1X1Rxb5hpyxZxCgpQxpXSvsLn" style="width: 300px; max-width: 100%; height: auto; float:left" alt="Click for the larger version." />
 <p>I would pose the following question to yourself, can I prove my supervisor wrong about a particular problem that they have set you to work on?
  Why do this? Well, in trying to prove them wrong, not only are you going to have to get incredibly acquainted with what they are doing, giving you depth, but you are also going to get breadth, from constantly questioning <i>is this the right thing to do</i> as you search for counterexamples. The harder it gets to come up with counterexamples, the more faith you will develop in your own research and the more belief you will have that what you are doing is worthwhile.</p> 
@@ -115,16 +117,16 @@ My first piece of advice is to explore, put yourself first and **own your stuff*
 
 <p>Ok, great, but here is the hard part, at some point the following happens. You keep trying, nothing works. You keep reading, nothing gets absorbed and it feels like there is just too much to process. You start getting caught in an infinite well of information that you 
 don't know how to escape. </p>
-<p>AHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH. </p>
+<p>AHHHHHHHHHHHHHHHHHHHH. </p>
 
 <p>Take a deep breath, step back, take another deep breath and sit down. </p>
 
 <p><img src="https://doodleeducation.com/wp-content/uploads/2017/05/keep-calm-and-stay-positive.jpg"  style="width: 300px; max-width: 100%; height: auto; float:left" alt="Click for the larger version."/></p>
-<p></p>
 
-<p><b>First</b>, remember 
+
+<p>
 <blockquote>
-luck == hard work.
+<b>First</b>, remember <i>luck == hard work.</i>
 </blockquote>
 The more things you try the more you increase your chances of finding the special sauce. </p>
 
@@ -133,7 +135,7 @@ It gives you a chance to digest what has happened. </p>
 
 <p><b>Third</b>, talk! 
 We are by construction wired to communicate. Talk to your peers, supervisor and support networks at the given institution. Talking to others and not just inside your head is one of the most useful techniques I have found for actually understanding the issues that are going on in my head!  In talking to others we rationalise and we find that solutions naturally arise. Because in talking to others we gain new perspectives. Opening up, especially if you are shy, we all are, can be difficult to do, especially when we have to talk about things that are more sensitive. 
-I have personally found that regardless of the sensitivity of the topic, the best solution for has always been to talk. To let out all those stresses and strains, to bring peace to your own emotional state. It is so easy to say, but so hard to do. But, I cannot stress enough the importance of talking to others. It always helps to have independent viewpoints on a situation, to prevent yourself from being stuck in one line of thought, <b>#ConfirmationBias</b>.</p>
+I have personally found that regardless of the sensitivity of the topic, the best solution for it has always been to talk. To let out all those stresses and strains, to bring peace to your own emotional state. It is so easy to say, but so hard to do. But, I cannot stress enough the importance of talking to others. It always helps to have independent viewpoints on a situation, to prevent yourself from being stuck in one line of thought, <b>#ConfirmationBias</b>.</p>
 
 <p><b>Fourth</b>, appreciate what you have, be grateful for what you have access to in life, appreciate the world around you and take note of the small things in life, they are easy to forget, but when we think about them we realise that there are many things in life to be happy about. </p>
 
