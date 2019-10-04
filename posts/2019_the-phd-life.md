@@ -20,7 +20,7 @@ comments: true
 <h4 id="pressure">Pressure</h4>
 
 <p>
-The need to publish is always there and writing a paper, especially if it is your first, is hard. You have to find and define the problem (your supervisor will probably help with this) and generate experiments that hopefully back your hypothesis. Then there are the associated time pressures for getting everything done before the next deadline. Finally, there is <i>the sell</i>, convincing the reviewers and others that your research is worthy; this can feel like an uphill battle sometimes. You may also have to deal with a problematic supervisor, it can happen, and I had an experience with one such supervisor during the first year of my PhD. Thankfully, they are no longer at the university and no longer supervise me. #ThisIsn'tBoylesLaw
+The need to publish is always there and writing a paper, especially if it is your first, is hard. You have to find and define the problem (your supervisor will probably help with this) and generate experiments that hopefully back your hypothesis. Then there are the associated time pressures for getting everything done before the next deadline. Finally, there is <i>the sell</i>, convincing the reviewers and others that your research is worthy; this can feel like an uphill battle sometimes. You may also have to deal with a problematic supervisor, it can happen, and I had an experience with one such supervisor during the first year of my PhD. Thankfully, they are no longer at the university and no longer supervise me. <b>#ThisIsn'tBoylesLaw</b>
 </p>
 
 <h4 id="worry">Worry</h4>
@@ -31,7 +31,7 @@ If I fail, what happens? Am I good enough? Do I have the ability to succeed? Can
 
 <h4 id="life">Life</h4>
 
-<p>Then there are personal events. Unfortunately, these can strike at any moment, and it is tough to prepare for them. Deaths, relationships, general fears and anxieties. When things are going well, it can feel as though you are gliding through the bright summer skies, when they degrade, well, that is another story. Life, in addition to work pressures, can create some tricky situations, I've had my fair share, but there are ways for us to mitigate some of the more dire consequences of those situations, I will discuss these below. #LifeIsLikeABoxOfChocolates
+<p>Then there are personal events. Unfortunately, these can strike at any moment, and it is tough to prepare for them. Deaths, relationships, general fears and anxieties. When things are going well, it can feel as though you are gliding through the bright summer skies, when they degrade, well, that is another story. Life, in addition to work pressures, can create some tricky situations, I've had my fair share, but there are ways for us to mitigate some of the more dire consequences of those situations, I will discuss these below. <b>#LifeIsLikeABoxOfChocolates</b>
 
 
 <!-- <h3 id="learning-difficulties">Learning Difficulties</h3>
