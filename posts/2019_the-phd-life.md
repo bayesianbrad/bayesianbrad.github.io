@@ -13,14 +13,14 @@ comments: true
 
 <h3 id="fears-and-emotions">Fears and Emotions</h3>
   
-<p>We all have them, and in many ways, it is what makes us human. They are not bad things, but sometimes they can have exaggerated effects on us, and it can be difficult to control those effects especially during work. <b>#EmotionsAreComplicated</b>
+<p>We all have them, and in many ways, it is what makes us human. They are not bad things, but sometimes they can have exaggerated effects on us, and it can be difficult to control those effects. <b>#EmotionsAreComplicated</b>
  </p>
    <div style="display: flex ; justify-content: center;"><img src="https://mooc-images.ncl.ac.uk/comfort/images/wordcloud4.png" style="width: 300px; max-width: 100%; height: auto;" alt="Click for the larger version." /></div>
 
 <h4 id="pressure">Pressure</h4>
 
 <p>
-The need to publish is always there and writing a paper, especially if it is your first, is hard. You have to find and define the problem (your supervisor will probably help with this) and generate experiments that hopefully back your hypothesis. Then there are the associated time pressures for getting everything done before the next deadline. Finally, there is <i>the sell</i>, convincing the reviewers and others that your research is worthy; this can feel like an uphill battle sometimes. You may also have to deal with a problematic supervisor, it can happen, and I had an experience with one such supervisor during the first year of my PhD. Thankfully, they are no longer at the university and no longer supervise me.
+The need to publish is always there and writing a paper, especially if it is your first, is hard. You have to find and define the problem (your supervisor will probably help with this) and generate experiments that hopefully back your hypothesis. Then there are the associated time pressures for getting everything done before the next deadline. Finally, there is <i>the sell</i>, convincing the reviewers and others that your research is worthy; this can feel like an uphill battle sometimes. You may also have to deal with a problematic supervisor, it can happen, and I had an experience with one such supervisor during the first year of my PhD. Thankfully, they are no longer at the university and no longer supervise me. #ThisIsn'tBoylesLaw
 </p>
 
 <h4 id="worry">Worry</h4>
@@ -31,7 +31,7 @@ If I fail, what happens? Am I good enough? Do I have the ability to succeed? Can
 
 <h4 id="life">Life</h4>
 
-<p>Then there are personal events. Unfortunately, these can strike at any moment, and it is tough to prepare for them. Deaths, relationships, general fears and anxieties. When things are going well, it can feel as though you are gliding through the bright summer skies, when they degrade, well, that is another story. Life, in addition to work pressures, can create some tricky situations, I've had my fair share, but there are ways for us to mitigate some of the more dire consequences of those situations, I will discuss these below.
+<p>Then there are personal events. Unfortunately, these can strike at any moment, and it is tough to prepare for them. Deaths, relationships, general fears and anxieties. When things are going well, it can feel as though you are gliding through the bright summer skies, when they degrade, well, that is another story. Life, in addition to work pressures, can create some tricky situations, I've had my fair share, but there are ways for us to mitigate some of the more dire consequences of those situations, I will discuss these below. #LifeIsLikeABoxOfChocolates
 
 
 <!-- <h3 id="learning-difficulties">Learning Difficulties</h3>
@@ -50,7 +50,7 @@ Have ye' little faith and appreciate people's differences regardless of disabili
 <h4 id="experience">Controlling your Emotions and Fears</h4>
 
 <p>It is weird, the majority of pressures that you feel, as a researcher, are all, to some degree, self-inflicted. I am the one that wants things to be perfect, I am the one who places the pressure on myself to perform, and I am the one who creates many of these fabricated constructs. Society can indeed be blamed for producing some of these pressures, but I am the one who chooses to inflict them upon myself, both consciously and sub-consciously. Of course, we have deadlines, external demands from others and financial burdens, but, if we think about these sensibly, we can mitigate much of the stresses that are associated with them because we construct them, and so we have control over them.<b>#YouHaveThePower!</b> </p>
-<p>One exercise I have found incredibly useful over the years is the following on a piece of paper construct three columns. In the first column, write down the current stresses in your life. In the middle column, write down what is the worst thing that can happen if that stress is to continue, or if it comes to fruition. Then, in the final column, reason how you will mitigate it to the best of your ability, or reduce the impact of the given stresses.</p> 
+<p>One exercise I have found incredibly useful over the years is the following; on a piece of paper construct three columns. In the first column, write down the current stresses in your life. In the middle column, write down what is the worst thing that can happen if that stress is to continue, or if it comes to fruition. Then, in the final column, reason how you will mitigate it to the best of your ability, or reduce the impact of the given stresses.</p> 
 <p>
 <img src=
 "https://external-preview.redd.it/oBTDYoslpdPVpb_w-D4vo-MXTUXSbvClz_puhplUDQ4.jpg?auto=webp&s=7752c19b9173e4f9c32d6bc6d86ae59cf5c6e231"
@@ -61,14 +61,14 @@ style="width: 300px; max-width: 100%; height: auto; float: left" alt="" />
 <p>
 An example might be as followed.
 </p>
-<p> <b>In column one:</b> <i> I keep procrastinating with my work because I'm scared that I can't accomplish the task I have to do.</i>. </p>
+<p> <b>In column one:</b> <i> I keep procrastinating with my work because I'm scared that I can't accomplish the task I have to do.</i> </p>
 <p><b>In column two:</b> <i> The worst thing that can happen is that you continue to do nothing, fail at your given project and increase self-doubt in your ability.</i> 
 <p><b>In column three:</b> <i>  To mitigate this; first, I should talk with my supervisor, friends and support network at the given institution. Second, I will work to understand what is causing my doubt, and I will explain this to those that <b>I choose</b> to talk with. Third, To remove those doubts I will start on the simple problem, the worst thing that can happen if I start is that I won't finish, but at least I will always be learning because through my failures I will understand what I need to do to succeed.</i></p>
  
 <p>Why should you do this? Well, first of all, writing things down stops them from being stuck in your head, reducing additional pressure and time from continually thinking about those stresses. Second, in realising those fears we can accept that they are there, we have an understanding with ourselves. Finally, in writing down how to reduce, or mitigate the impacts of those stresses, we are telling ourselves how we are going to prepare for them, meaning that we now have a more visible objective. This process can be viewed as a form of <a href="https://en.wikipedia.org/wiki/Stoicism">Stoicism</a>.</p>
 <p><b> An important note: </b>  If you feel as though you can no longer control your actions and emotions in a given situation, immediately remove yourself from it. This will stop you from a) committing acts that you will later regret and b)  put you back in control.
 I recently had a number of very emotional issues appear almost concurrently, which created a testing environment. The only way to get control of my actions and emotions in this situation was to remove myself entirely from it.
-t happens to most people in life as the pressures increase, so <b>#Don'tBeAshamed</b>. Be proud that you took action to resolve the situation in a more positive and pro-active way.<b>#Sensible</b>.
+It happens to most people in life as the pressures increase, so <b>#Don'tBeAshamed</b>. Be proud that you took action to resolve the situation in a more positive and pro-active way. <b>#BeSensible</b>.
 </p>
 
 
@@ -95,7 +95,7 @@ The <a href="https://www.eng.ox.ac.uk/aims-cdt/">AIMS</a> program was also incre
 <h3 id="prevention"> Prevention</h3>
 
 <p>Okay, so we have talked about how to control those situations when they arise, but how does one mitigate these pressures? 
-My first piece of advice is to explore, put yourself first and <b>own your stuff</b>. YYour supervisor is there to guide you, not control you. Yes, you should be interested in problems that your supervisor is interested in, that is why you choose them after all. But, this doesn't mean that you have to sacrifice your intellectual curiosities.</p>
+My first piece of advice is to explore, put yourself first and <b>own your stuff</b>. Your supervisor is there to guide you, not control you. Yes, you should be interested in problems that your supervisor is interested in, that is why you choose them after all. But, this doesn't mean that you have to sacrifice your intellectual curiosities.</p>
  <!-- <img src="https://drive.google.com/uc?export=view&id=1s0npsef1X1Rxb5hpyxZxCgpQxpXSvsLn" style="width: 300px; max-width: 100%; height: auto; float:left" alt="Click for the larger version." />
 <p>I would pose the following question to yourself, can I prove my supervisor wrong about a particular problem that they have set you to work on?
  Why do this? Well, in trying to prove them wrong, not only are you going to have to get incredibly acquainted with what they are doing, giving you depth, but you are also going to get breadth, from constantly questioning <i>is this the right thing to do</i> as you search for counterexamples. The harder it gets to come up with counterexamples, the more faith you will develop in your own research and the more belief you will have that what you are doing is worthwhile.</p> 
