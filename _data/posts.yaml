@@ -5,6 +5,12 @@ posts:
   #   url: "posts/2019_quantum_mechanics_for_the_machine_learner.html"
   #   selected: n
 
+  - title: "How to transfer your domain to Google cloud and set-up hosting in 6 steps"
+    subtitle: "Follow these 6 easy steps to move your domain to Google cloud."
+    thumbnail: "/assets/posts/2020-transfer-domain-to-google-cloud/figures/opening-figure.png"
+    url: "posts/2020-transfer-domain-to-google-cloud.html"
+    selected: y
+
   - title: "The PhD Life"
     subtitle: "Avoiding depression and understanding our fears and emotions"
     thumbnail: "assets/posts/2019_the_phd_life/thumbnail.png"
@@ -27,13 +33,13 @@ posts:
     subtitle: "I spent just $5 on accomedation in Hawaii... let that sink in."
     thumbnail: "assets/posts/2019_hawaii/thumbnail.jpg"
     url: "posts/2019_Backpacking-with-just-hand-luggage.html"
-    selected: n
+    selected: y
 
   - title: "An Introduction to PySPPL"
     subtitle: "an extended first-order probabilistic programming langauge"
     thumbnail: "assets/posts/2018_an-introduction-to-pysppl/thumbnail.jpeg"
     url: "posts/2018_An-introduction-to-pysppl.html"
-    selected: n
+    selected: y
 
 
 
