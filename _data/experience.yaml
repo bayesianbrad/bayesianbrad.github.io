@@ -1,9 +1,16 @@
 experiences:
+
+- place: "Intelligent Networks"
+  time: "2020 - Now"
+  title: "Chief technology officer & Co-founder"
+  subtitle: "Develop and deploy all of the AI solutions and build all the data pipelines."
+  category: "work"
+
 - place: "University of Oxford"
-  time: "2016 - now"
+  time: "2016 - 2021"
   title: "Ph.D. Student"
   subtitle: "Oxford Computational Stastics and Machine learning Group & Torr Vision Group "
-  category: "school"
+  category: "work"
 
 - place: "Frontier Development Lab"
   time: "Summer 2018"
@@ -34,9 +41,20 @@ experiences:
 #   title: "Research Assistant"
 #   subtitle: "Department of Knowledge Technologies"
 #   category: "work"
+- place: "Classical Foundations"
+  time: "Sep 2011 - Jul 2015"
+  title: "Mathematics and Physics tutorer"
+  subtitle: "Taught high-school and advance manths."
+  category: "work"
 
 - place: "University of Nottingham"
   time: "Sep 2011 - Jun 2015"
   title: "MMath. Student"
   subtitle: "Masters of Mathematics <br/> First Class Honours"
   category: "school"
+
+- place: "Primark"
+  time: "Sep 2008 - Jun 2011"
+  title: "Manager"
+  subtitle: "Supervised people in the fast-fashion retailer. I learnt a lot about retail and worked with some great people"
+  category: "work"
