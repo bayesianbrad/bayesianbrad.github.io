@@ -1,5 +1,11 @@
 experiences:
 
+- place: "Dataminr"
+  time: "2021 - Now"
+  title: "AI Research Scientist"
+  subtitle: "Develop state-of-the-art AI and probabilistic programming driven machine learning algorithms to save peoples lifes!"
+  category: "work"
+
 - place: "Intelligent Networks"
   time: "2020 - Now"
   title: "Chief technology officer & Co-founder"
