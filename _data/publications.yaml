@@ -1,4 +1,29 @@
 papers:
+
+  - title: "Extending Probabilistic Programming Systems and Applying Them to Real-World Simulators"
+    authors: "<b> Bradley Gram-Hansen </b>"
+    venue: "DPhil Thesis, University of Oxford, 2021."
+    paper_pdf: "/assets/publications/2021_thesis/thesis.pdf"
+    examiners: "Examined by <a href='http://www.cs.ox.ac.uk/people/luke.ong/personal/'> Professor Luke Ong </a> and <a href='https://www.microsoft.com/en-us/research/people/jwinn/'> Professor John Winn </a>"
+    selected: y
+
+
+  - title: "Simulation-Based Inference for Global Health Decisions"
+    authors: "Christian Schröder de Witt,<b> Bradley Gram-Hansen </b>, Nantas Nardelli, Andrew Gambardellla, Rob Zinkov, Puneet Dokania, N Siddharth, Ana. B Espinosa-Gonzalez, Ara Darzi, Philip HS Torr, Atılım Güneş Baydin"
+    venue: "ICML'20: International Conference on Machine Learning Health workshop. 2020."
+    paper_pdf: "/assets/publications/2020_covidsim/paper.pdf"
+    code: "https://github.com/torrvision/covid-sim-backup"
+    poster: "/assets/publications/2020_covidsim/poster.pdf"
+    selected: y
+
+  - title: "Effective Approximate Inference for Nested Simulators"
+    authors: "<b> Bradley Gram-Hansen* </b>, Adam Golinski*, Christian Schröder de Witt, Adam Scibior, Andreas Munk, Saeid Naderiparizi,Frank Wood, Philip Torr, Yee Whye Teh "
+    venue: "AABI'19: Advances in Approximate Bayesian Inference Symposiumm, 2019"
+    examiners: "Note: This is a significantly updated version of the workshop paper with more experiments and details. Enjoy!"
+    paper_pdf: "/assets/publications/2021_ai/paper.pdf"
+    poster: "/assets/publications/2021_ai/podter.pdf"
+    selected: y
+
   - title: "Usability of Probabilistic Programming Languages"
     authors: "Alan Blackwell, Tobias Kohn, Martin Erwig, Atilim Gunes Baydin, Luke Church, James Geddes, Andy Gordon, Maria Gorinova, <b>Bradley Gram-Hansen</b>, Neil Lawrence, Vikash Mansinghka, Brooks Paige, Tomas Petricek, Diana Robinson, Advait Sarkar, Oliver Strickson"
     venue: "Psychology of Programming Interest Group 30th Annual Workshop, PPIG 2019."
@@ -25,6 +50,7 @@ papers:
     authors: "<b> Bradley Gram-Hansen* </b>, Christian Schröder de Witt*, Tom Rainforth, Philip HS Torr, Yee Whye Teh, Atılım Güneş Baydin"
     venue: "ICML'19: International Conference on Machine Learning AI for Social Good workshop. 2019."
     paper_pdf: "/assets/publications/2019_malaria/paper.pdf"
+    code: "https://github.com/bayesianbrad/openmalaria_probprog"
     poster: "https://docs.google.com/presentation/d/1obDkTjoNGvvuSL-oxpSqe1miHVhpVKk79J7cOhGn92U/edit?usp=sharing"
     selected: y
 
