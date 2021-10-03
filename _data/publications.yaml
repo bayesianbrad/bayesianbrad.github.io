@@ -16,13 +16,13 @@ papers:
     poster: "/assets/publications/2020_covidsim/poster.pdf"
     selected: y
 
-  - title: "Effective Approximate Inference for Nested Simulators"
-    authors: "<b> Bradley Gram-Hansen* </b>, Adam Golinski*, Christian Schröder de Witt, Adam Scibior, Andreas Munk, Saeid Naderiparizi,Frank Wood, Philip Torr, Yee Whye Teh "
-    venue: "AABI'19: Advances in Approximate Bayesian Inference Symposiumm, 2019"
-    examiners: "Note: This is a significantly updated version of the workshop paper with more experiments and details. Enjoy!"
-    paper_pdf: "/assets/publications/2021_ai/paper.pdf"
-    poster: "/assets/publications/2021_ai/podter.pdf"
-    selected: y
+  # - title: "Effective Approximate Inference for Nested Simulators"
+  #   authors: "<b> Bradley Gram-Hansen* </b>, Adam Golinski*, Christian Schröder de Witt, Adam Scibior, Andreas Munk, Saeid Naderiparizi,Frank Wood, Philip Torr, Yee Whye Teh "
+  #   venue: "AABI'19: Advances in Approximate Bayesian Inference Symposiumm, 2019"
+  #   examiners: "Note: This is a significantly updated version of the workshop paper with more experiments and details. Enjoy!"
+  #   paper_pdf: "/assets/publications/2021_ai/paper.pdf"
+  #   poster: "/assets/publications/2021_ai/podter.pdf"
+  #   selected: y
 
   - title: "Usability of Probabilistic Programming Languages"
     authors: "Alan Blackwell, Tobias Kohn, Martin Erwig, Atilim Gunes Baydin, Luke Church, James Geddes, Andy Gordon, Maria Gorinova, <b>Bradley Gram-Hansen</b>, Neil Lawrence, Vikash Mansinghka, Brooks Paige, Tomas Petricek, Diana Robinson, Advait Sarkar, Oliver Strickson"
