@@ -1,20 +1,26 @@
 experiences:
 
 - place: "Dataminr"
+  time: "2022 - Now"
+  title: "AI Research Scientist II"
+  subtitle: "Promoted! Develop state-of-the-art AI and probabilistic programming driven machine learning algorithms to save peoples lifes!"
+  category: "work"
+
+- place: "Dataminr"
   time: "2021 - Now"
-  title: "AI Research Scientist"
+  title: "AI Research Scientist I"
   subtitle: "Develop state-of-the-art AI and probabilistic programming driven machine learning algorithms to save peoples lifes!"
   category: "work"
 
 - place: "Intelligent Networks"
   time: "2020 - 2021"
-  title: "Chief technology officer"
+  title: "Co-founder & Chief technology officer"
   subtitle: "Develop and deployed all of the AI solutions and built all the data pipelines."
   category: "work"
 
 - place: "University of Oxford"
   time: "2016 - 2020"
-  title: "Ph.D. Student"
+  title: "Ph.D. Student / AI Research Scientist"
   subtitle: "Oxford Computational Stastics and Machine learning Group & Torr Vision Group "
   category: "school"
 
