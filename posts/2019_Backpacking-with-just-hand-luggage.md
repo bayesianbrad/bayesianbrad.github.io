@@ -20,7 +20,7 @@ This usually means that I will try and get my accommodation bill as close to zer
 ## Setting up the rig cheaply
     
 <p>In this short post I am going to explain how to pack all of your camping gear into a rucksack suitable for hand luggage on most airlines (easyjet, AirAsia, Peach, Eva, British Airways etc), if not all airlines, so that you too can enjoy what I consider the must luxury accommodation in the world (highly dependent on where you set-up) camping. Explicitly, I will talk about my recent experience in Hawaii. For the airlines listed at the time of writing (April 2019) the lowest volume allowed on board was 56cm x 36cm x 23cm and the following is sufficient for those dimensions.</p>
-<p>I will put a disclaimer here, this set-up is most suitable for warmer climates, essentially anything where the nighttime temperature does not go below approximately 10 degrees C. You could definitely go cooler, but getting an adequate sleeping bag that is compact enough will be expensive and you will probably need to wear additional items on the plane. Where the cheaper sleeping bag on the plain? <b>#GreatIdea</b> </p>
+<p>I will put a disclaimer here, this set-up is most suitable for warmer climates, essentially anything where the nighttime temperature does not go below approximately 10 degrees C. You could definitely go cooler, but getting an adequate sleeping bag that is compact enough will be expensive and you will probably need to wear additional items on the plane. Wear the cheaper sleeping bag on the plane? <b>#GreatIdea</b> </p>
 
 <p>Below is a list of gear that I took with me and would recommend others to take too. I’ve attached a brief summary of why I choose each thing, just so you understand why it is important to me. I’m not sponsored, so all the items I provide here are based on my own research and I have thoroughly tested them. Also note that I am around 6ft (1.84m) and so if you are smaller you will have more room to play with. Lucky you!</p>
 
@@ -53,7 +53,7 @@ Fleece sleeping bag (Very thin, brought from Aldi for £10).
 
 - <b>1 x Trekking First aid kit</b> - Always useful to have a first aid kit when you are more remote. Click <a href="https://www.gooutdoors.co.uk/search/go?w=first%20aid%20kit&amp;asug=first%20aid&amp;apelog=yes">here</a> (£13 when purchased)
 
-- <b>1 x Windshield for when cooking</b>. Light weight, makes the gas canisters easier to light and conserve full. Click <a href="https://www.amazon.co.uk/S%C2%AE-Foldable-Outdoor-Camping-Windshield/dp/B00TY0BZ56/ref=sr_1_1?keywords=windshield+stove&amp;qid=1555088759&amp;s=gateway&amp;sr=8-1">here</a> (£7 when purchased)
+- <b>1 x Windshield for when cooking</b>. Light weight, makes the gas canisters easier to light and conserve. Click <a href="https://www.amazon.co.uk/S%C2%AE-Foldable-Outdoor-Camping-Windshield/dp/B00TY0BZ56/ref=sr_1_1?keywords=windshield+stove&amp;qid=1555088759&amp;s=gateway&amp;sr=8-1">here</a> (£7 when purchased)
 
 - <b>6 x Plastic Pegs for the tarp</b>. No more than £3-5 for 10. Purchased from GoOutdoors.
 
@@ -105,7 +105,7 @@ Just in case you don't believe that you can fit all of this into a bag, here is 
 
 I hope this blog post helps someone who was in the same situation as me back in January 2019!
 
-Here are a few photos from my trip in January to Hawaii:
+Here are a few photos from my trip in January to Kauai, Hawaii in 2019:
 
 <img src="/assets/posts/2019_hawaii/c1.jpg" alt="Camping" width="400"/>
 <img src="/assets/posts/2019_hawaii/c2.jpg" alt="Camping" width="400"/>
