@@ -1,7 +1,13 @@
 experiences:
 
+- place: "Apple"
+  time: "2025 - Now"
+  title: "Senior Applied Scientist"
+  subtitle: " Develop state-of-the-art AI and ML pipelines to drive efficiency at Apple in data operations AIML org."
+  category: "work"
+
 - place: "Dataminr"
-  time: "2022 - Now"
+  time: "2022 - 2025"
   title: "AI Research Scientist II"
   subtitle: "Promoted! Develop state-of-the-art AI and probabilistic programming driven machine learning algorithms to save peoples lifes!"
   category: "work"
