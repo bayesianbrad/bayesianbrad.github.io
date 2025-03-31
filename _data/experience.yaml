@@ -7,13 +7,19 @@ experiences:
   category: "work"
 
 - place: "Dataminr"
-  time: "2022 - 2025"
+  time: "2025 - 2025"
+  title: "Senior Research Scientist"
+  subtitle: "Promoted! Develop state-of-the-art AI and probabilistic programming driven machine learning algorithms to save peoples lifes and protect people from cyber threats!"
+  category: "work"
+
+- place: "Dataminr"
+  time: "2022 - 2024"
   title: "AI Research Scientist II"
   subtitle: "Promoted! Develop state-of-the-art AI and probabilistic programming driven machine learning algorithms to save peoples lifes!"
   category: "work"
 
 - place: "Dataminr"
-  time: "2021 - Now"
+  time: "2021 - 2022"
   title: "AI Research Scientist I"
   subtitle: "Develop state-of-the-art AI and probabilistic programming driven machine learning algorithms to save peoples lifes!"
   category: "work"
